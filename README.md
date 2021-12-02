@@ -9,4 +9,4 @@ Uso <code>Modern OpenGL</code>, para <b>computação grafica</b> de jogos que eu
 
 Apesar de eu não usar tanto, também me viro bem com <code>JAVA</code>, <code>SQL</code> e <code>C++</code>.
 
-Atualmente estou fazendo um curso de design.
+Também tenho conhecimento para usar o <code>Photoshop</code>, além de estar estudando para aprender a utilizar o <code>Blender</code> para criar assets 3D.
