@@ -7,6 +7,6 @@ Uso <code>Python</code>(minha linguagem de programação favorita) como minha li
 
 Uso <code>Modern OpenGL</code>, para <b>computação grafica</b> de jogos que eu desenvolvo(serio eu amo programação e ser capaz de programar os graficos do jogo faz eu ficar mais empolgado do que nunca para criar jogos, do tipo que eu consigo ficar o dia inteiro programando).
 
-Apesar de eu não usar tanto, também me viro bem com <code>JAVA</code>, <code>SQL</code> e <code>C++</code>.
+Apesar de eu não usar tanto, também me viro bem com <code>JAVA</code>, <code>SQL</code>, <code>C++</code> e <code>NODE.js</code>.
 
 Também tenho conhecimento para usar o <code>Photoshop</code>, além de estar estudando para aprender a utilizar o <code>Blender</code> para criar assets 3D.
