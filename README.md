@@ -5,7 +5,7 @@ Uso <code>HTML</code>, <code>CSS</code>, <code>PHP</code> e <code>JavaScript</co
 
 Uso <code>Python</code>(minha linguagem de programação favorita) como minha linguagem de programação principal, eu uso ela para <b>banco de dados</b>, <b>processamento digital de imagens</b>, <b>sistemas distribuidos</b>, <b>edição de vídeo</b>, <b>criptografia</b>, se for mais especifico eu tenho muita experiencia com as bibliotecas <code>Flask</code>, <code>OpenCV</code>, <code>socket</code>, <code>requests</code> e <code>hashlib</code>.
 
-Uso <code>Modern OpenGL</code>, para <b>computação grafica</b> de jogos que eu desenvolvo(serio eu amo programação e ser capaz de programar os graficos do jogo faz eu ficar mais empolgado do que nunca para criar jogos, do tipo que eu consigo ficar o dia inteiro programando).
+Uso <code>Modern OpenGL</code>, para <b>computação grafica</b> de jogos que eu desenvolvo, além de usar <code>GLSL</code> para escrever shaders(serio eu amo programação e ser capaz de programar os graficos do jogo faz eu ficar mais empolgado do que nunca para criar jogos, do tipo que eu consigo ficar o dia inteiro programando).
 
 Apesar de eu não usar tanto, também me viro bem com <code>JAVA</code>, <code>SQL</code>, <code>C++</code> e <code>NODE.js</code>.
 
