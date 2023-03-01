@@ -1,7 +1,7 @@
 
 <div style="width:100%;" align="center">
   <div style="width:100%;">
-    <img src="projetos.webp" height="100px"/>
+    <code>Meus Jogos/Projetos</code>
   </div>
   <div style="width:100%;" align="left">
     <a href="https://arthursouzasally.itch.io/hannah-hill"><img src="poster_hannah_hill.webp" height="200px"/></a>
