@@ -1,7 +1,7 @@
 
 <div style="width:100%;" align="center">
   <div style="width:100%;">
-    <code style="font-size:30px;">Meus Jogos/Projetos</code>
+    <h2>Meus Jogos</h2>
     <hr/>
   </div>
   <div style="width:100%;" align="left">
