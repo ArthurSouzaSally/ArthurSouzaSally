@@ -4,7 +4,7 @@
     <img src="sobre.webp" height="100px"/>
   </div>
   <div style="width:100%;">
-    <div style="width:80%;padding:5px 10px 10px 10px;background:rgb(200,200,200);border:2px solid rgb(50,50,50);border-radius:4px;" align="left">Eae</div>
+    Sou um <b>Desenvolvedor de Jogos</b>, <b>Programador</b>, <b>Roteirista</b> e <b>Engenheiro de Computação</b>. Focado em <b>OpenGL</b> e <b>Blender</b>.
   </div>
 </div>
 <div style="width:100%;" align="center">
