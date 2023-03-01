@@ -4,7 +4,7 @@
     <img src="sobre.webp" height="100px"/>
   </div>
   <div style="width:100%;" align="left">
-    <span style="margin-left:40px;font-family:monospace;">Teste</span>
+    <span style="margin-left:40px;font-family:courier;">Teste</span>
   </div>
 </div>
 <div style="width:100%;" align="center">
