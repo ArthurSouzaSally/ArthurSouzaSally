@@ -3,8 +3,8 @@
   <div style="width:100%;">
     <img src="sobre.webp" height="100px"/>
   </div>
-  <div style="width:100%;" align="left">
-    <span style="margin-left:40px;font-family:courier;">Teste</span>
+  <div style="width:100%;">
+    <span>Olá! Meu nome é Arthur e sou um Desenvolvedor de Jogos, Programador, Roteirista e Engenheiro de Computação.</span>
   </div>
 </div>
 <div style="width:100%;" align="center">
