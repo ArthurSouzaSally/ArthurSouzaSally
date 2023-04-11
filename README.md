@@ -1,5 +1,6 @@
 
 <div style="width:100%;" align="center">
+  Veja mais <a href="https://arthursouzasally.github.io/ArthurSouzaSally/">aqui</a>.
   <div style="width:100%;">
     <h2>Meus Jogos</h2>
   </div>
