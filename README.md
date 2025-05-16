@@ -13,4 +13,8 @@
   </div>
 </div>
 
-<!-- terceiro em breve -->
+<!-- Olá Mortais Sedentos por conteúdo --> 
+<!-- audiovisual interativo! Sintam-se livres -->
+<!-- para ver o catalogo de minhas criações e -->
+<!-- consumir o que lhes for de maior agrado! -->
+
