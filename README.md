@@ -13,10 +13,6 @@
   </div>
 </div>
 
-<style>
-  :not(p){border:0px;margin:0px;}
-</style>
-
 <!-- Olá Mortais Sedentos por conteúdo --> 
 <!-- audiovisual interativo! Sintam-se livres -->
 <!-- para ver o catalogo de minhas criações e -->
