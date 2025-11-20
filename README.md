@@ -1,7 +1,7 @@
 
 <div style="width:100%;" align="center">
   <div style="width:100%;">
-    <h2>Meus Jogos</h2>
+    <h2>Minhas Obras</h2>
   </div>
   <div style="width:100%;" align="center">
     <div style=""display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;width:100%;" align="left">
