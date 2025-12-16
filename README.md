@@ -5,7 +5,7 @@
   </div>
   <div style="width:100%;" align="center">
     <div style=""display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;width:100%;" align="left">
-      <a href="https://arthursouzasally.itch.io/lrzrvr" target="_blank"><img src="poster_LRZRVR.webp" style="width:24.4%;"/></a>
+      <a href="https://arthursouzasally.itch.io/lrzrvr" target="_blank"><img src="Poster_LRZRVR.webp" style="width:24.4%;"/></a>
       <a href="https://arthursouzasally.itch.io/banal" target="_blank"><img src="poster_banal.webp" style="width:24.4%;"/></a>
       <a href="https://arthursouzasally.itch.io/hipocrisia" target="_blank"><img src="poster_hipocrisia.webp" style="width:24.4%;"/></a>
       <a href="https://arthursouzasally.itch.io/oqwun" target="_blank"><img src="poster_oqwun.webp" style="width:24.4%;"/></a>
